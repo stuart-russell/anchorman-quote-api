@@ -29,4 +29,4 @@ The service will be accessible at http://localhost:8080
 ## Usage (Optional)
 
 - Get a random quote at: http://localhost:8080/
-- You can specify a character to limit you're query at: http://localhost:8080/who?name=Veronica
+- You can limit you're query using the tags keyword: http://localhost:8080/tags?tags=Veronica

@@ -1,38 +1,38 @@
 [
 	{
-		"character": "Ron",
+		"tags": ["Ron", "Funny"],
 		"quote": "donut"
 	},
 	{
-		"character": "Veronica",
+		"tags": ["Veronica", "Funny"],
 		"quote": "donut2"
 	},
     {
-		"character": "Brick",
+		"tags": ["Brick", "Funny"],
 		"quote": "donut3"
     },
     {
-		"character": "Brian",
+		"tags": ["Brian", "Funny"],
 		"quote": "donut4"
     },
     {
-		"character": "Brick",
+		"tags": ["Brick", "Funny"],
 		"quote": "donut5"
     },
     {
-		"character": "Ed",
+		"tags": ["Ed", "Funny"],
 		"quote": "donut6"
     },
     {
-		"character": "anyone",
+		"tags": ["anyone", "Funny"],
 		"quote": "donut7"
     },
     {
-		"character": "anyone",
+		"tags": ["anyone", "Funny"],
 		"quote": "donut8"
     },
     {
-		"character": "anyone",
+		"tags": ["anyone", "Funny"],
 		"quote": "donut9"
 	}
 ]
