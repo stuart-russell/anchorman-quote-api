@@ -5,13 +5,14 @@ from unittest.mock import patch, mock_open
 from aiohttp.test_utils import AioHTTPTestCase, unittest_run_loop
 from aiohttp import web
 
+
 class TestAPI(unittest.TestCase):
 
     @patch("builtins.open", new_callable=mock_open())
     @patch("src.api.json.load", return_value={})
     def test_load_quotes(self, json_mock, open_mock):
         load_quotes()
-        open_mock.assert_called_with("src/quotes.json")
+        open_mock.assert_called()
 
     def test_common_elements(self):
         l1 = [1, 2, 3]

@@ -1,5 +1,6 @@
 from aiohttp import web
 from random import randint
+from pathlib import Path
 import json
 import logging
 
@@ -38,9 +39,10 @@ def common_elements(list_one, list_two):
     return set(list_one).intersection(set(list_two))
 
 def load_quotes():
-    with open("src/quotes.json") as json_file:
-        quotes = json.load(json_file)
-    return quotes
+    data_folder = Path(__file__).parent
+    file_to_open = data_folder / "quotes.json"
+    f = open(file_to_open)
+    return (json.load(f))
 
 if __name__ == '__main__':
     app = web.Application()

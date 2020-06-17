@@ -1,38 +1,294 @@
 [
 	{
-		"tags": ["Ron", "Funny"],
-		"quote": "donut"
+		"tags": ["Narrator"],
+		"quote": "He had a voice that could make a wolverine purr and suits so fine they made Sinatra look like a hobo."
 	},
 	{
-		"tags": ["Veronica", "Funny"],
-		"quote": "donut2"
+		"tags": ["Ron"],
+		"quote": "I immediately regret this decision."
 	},
     {
-		"tags": ["Brick", "Funny"],
-		"quote": "donut3"
+		"tags": ["Veronica"],
+		"quote": "I'll have a Manhattan. And kick the vermouth to the side with a pair of steel-toed boots."
     },
     {
-		"tags": ["Brian", "Funny"],
-		"quote": "donut4"
+		"tags": ["Ron"],
+		"quote": "I love scotch. Scotchy scotch scotch. Here it goes down, down into my belly."
     },
     {
-		"tags": ["Brick", "Funny"],
-		"quote": "donut5"
+		"tags": ["Ron"],
+		"quote": "Oh, I can barely lift my right arm 'cause I did so many. I don't know if you heard me counting. I did over a thousand."
     },
     {
-		"tags": ["Ed", "Funny"],
-		"quote": "donut6"
+		"tags": ["Ron"],
+		"quote": "Discovered by the Germans in 1904, they named it San Diego, which of course in German means 'a whale's vagina.'"
     },
     {
-		"tags": ["anyone", "Funny"],
-		"quote": "donut7"
+		"tags": ["Ron"],
+		"quote": "It's terrible. She has beautiful eyes, and her hair smells like cinnamon!"
     },
     {
-		"tags": ["anyone", "Funny"],
-		"quote": "donut8"
+		"tags": ["Ron"],
+		"quote": "Baxter, is that you? Baxter! Bark twice if you're in Milwaukee."
     },
     {
-		"tags": ["anyone", "Funny"],
-		"quote": "donut9"
+		"tags": ["Brick"],
+		"quote": "There were horses, and a man on fire, and I killed a guy with a trident."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You are a smelly pirate hooker. Why don't you go back to your home on Whore Island?"
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "I read somewhere their periods attract bears. They can smell the menstruation."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Well if you were a man, I'd punch you. Punch you right in the mouth."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm very important. I have many leather-bound books and my apartment smells of rich mahogany."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "The human torch was denied a bank loan."
+	},
+	{
+		"tags": ["Champ"],
+		"quote": "It is anchorman, not anchorlady. And that is a scientific fact."
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "I would like to extend to you an invitation to the pants party."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "It's so damn hot. Milk was a bad choice."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "What? You pooped in the refrigerator? And you ate the whole wheel of cheese? How'd you do that? Heck, I'm not even mad; that's amazing."
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "60 percent of the time, it works every time"
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "Panda watch!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm in a glass case of emotion!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You know I don't speak Spanish."
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "Yeah.. I stabbed a man in the heart."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Brick I've been meaning to talk to you about that. You should find yourself a safe house or a relative close by. Lay low for a while because you're probably wanted for murder."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You have an absolutely breathtaking hiney."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm kind of a big deal. People know me."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Brick, are you just looking at things in the office and saying you love them?"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Do you really love the lamp or are you just saying it because you saw it?"
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "I love, carpet. I love, desk."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Go fuck yourself San Diego"
+	},
+	{
+		"tags": ["Veronica"],
+		"quote": "Brick are you saying that there is a party in your pants and that I'm invited?"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "By the beard of Zeus!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Oh Audrey - I look like hell! I got bags under my eyes. What's that? Well if you were a man, I'd punch you. Punch you right in the mouth. That's bush. Bush league. YOU HEAR ME? AUDREY! LOOK AT ME! I'm sorry. I'm sorry. Alright?"
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "I know what you're wondering, and the answer is yes... I do have a nickname for my penis. It's called 'The Octagon'."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Brick, where'd you get a hand grenade?"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Well... THAT escalated quickly."
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "I DON'T KNOW WHAT WE'RE YELLING ABOUT!"
+	},
+	{
+		"tags": ["Champ"],
+		"quote": " I will smash your face into a car windshield, then take your mother, Dorothy Mantooth out for a delicious seafood dinner and then never call her again!"
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "LOUD NOISES!"
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "I ate a big red candle"
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "Hey, where'd you get those clothes, the toilet store?"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Ok before we start. Lets go over the ground-rules....No touching of the hair or face"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Great Odens Raven!!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Great Knights of Columbus that hurt!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "That doesn't make sense."
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "I'm very aroused."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "This is embarrassing... I'm totally unprepared."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm not a baby! I'm a man! An ANCHORMAN!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You stay classy, San Diego."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Don't act like you're not impressed."
+	},
+	{
+		"tags": ["Veronica"],
+		"quote": "Mr. Burgundy, you have a *massive* erection."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Mmmmm... I look good. I mean really good."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "It always goes down smooth!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Oh its a deep burn. So deep oh I can barely lift my right arm cause i did so many."
+	},
+	{
+		"tags": ["Champ"],
+		"quote": "I woke up this morning and I shit a squirrel, I mean literaly hell this damn things still alive so I got this shit covered squirrel down there in the office. Don't know what to name it."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Cannon ball!"
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "It's called Sex Panther by Odeon. It's illegal in nine countries..."
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "Yep, it's made with bits of real panther, so you know it's good."
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "Years later, a doctor will tell me that I have an I.Q. of 48 and am what some people call mentally retarded."
+	},
+	{
+		"tags": ["Brian"],
+		"quote": "Well, that's just great. You hear that, Ed? Bears. Now you're putting the whole station in jeopardy."
+	},
+	{
+		"tags": ["Veronica"],
+		"quote": "Stop calling your arms guns."
+	},
+	{
+		"tags": ["Veronica"],
+		"quote": "Oh Ron, there are literally thousands of other men that I should be with instead, but I am 72 percent sure that I love you."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You're so wise. You're like a miniature Buddha, covered in hair."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Well, I could be wrong, but I believe diversity is an old, old wooden ship that was used during the Civil War era."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You're so wise. You're like a miniature Buddha, covered in hair."
+	},
+	{
+		"tags": ["Brick"],
+		"quote": "Um, no, no. Too many people died last year, so we're not gonna."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Son of a bee-sting!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Sweet Lincoln's mullet!"
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "You're a real hooker. I'm gonna slap you in public."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm gonna punch you in the ovary, that's what I'm gonna do. A straight shot. Right to the baby maker."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "It's a formidable scent… It stings the nostrils. In a good way… Brian, I'm gonna be honest with you, that smells like pure gasoline."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "Just watch out for the guns, they'll getcha."
+	},
+	{
+		"tags": ["Ron"],
+		"quote": "I'm a man who discovered the wheel and built the Eiffel Tower out of metal and brawn. That's what kind of man I am. You're just a woman with a small brain. With a brain a third the size of us. It's science."
 	}
 ]
